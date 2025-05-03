@@ -1,7 +1,8 @@
 const remoteMemoryChips = [
-    {"partNumber":"V53C408H","manufacturer":"Mosel","organization":"1Mx4","type":"EDO","density":"512K","refresh":"1K","voltage":"5V"},
-    {"partNumber":"HY5117404B","manufacturer":"Hyundai","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"5V"},
-    {"partNumber":"HY5116404B","manufacturer":"Hyundai","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"4K","voltage":"5V"},
+	{"partNumber":"M5M417405","manufacturer":"Mitsubishi","organization":"4Mx4","type":"EDO","density":"2M","refresh":"2K","voltage":"5V"},
+    	{"partNumber":"V53C408H","manufacturer":"Mosel","organization":"1Mx4","type":"EDO","density":"512K","refresh":"1K","voltage":"5V"},
+    	{"partNumber":"HY5117404B","manufacturer":"Hyundai","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"5V"},
+    	{"partNumber":"HY5116404B","manufacturer":"Hyundai","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"4K","voltage":"5V"},
 	{"partNumber":"HY51V16404A","manufacturer":"Hyundai","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"4K","voltage":"3.3V"},
 	{"partNumber":"HY51V17404A","manufacturer":"Hyundai","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"3.3V"},
 	{"partNumber":"UPD4217405","manufacturer":"NEC","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"5V"},
