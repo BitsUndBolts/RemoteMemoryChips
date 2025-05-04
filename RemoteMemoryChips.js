@@ -1,4 +1,9 @@
 const remoteMemoryChips = [
+	{"partNumber":"IBM014400J","manufacturer":"IBM","organization":"1Mx4","type":"FPM","density":"512KB","refresh":"1K","voltage":"5V"},
+	{"partNumber":"IBM014400BJ","manufacturer":"IBM","organization":"1Mx4","type":"FPM","density":"512KB","refresh":"1K","voltage":"3.3V"},
+	{"partNumber":"IBM014400AJ","manufacturer":"IBM","organization":"1Mx4","type":"FPM","density":"512KB","refresh":"1K","voltage":"5V"},
+	{"partNumber":"IBM014400CJ","manufacturer":"IBM","organization":"1Mx4","type":"FPM","density":"512KB","refresh":"1K","voltage":"3.3V"},
+	{"partNumber":"014400J1","manufacturer":"IBM","organization":"1Mx4","type":"FPM","density":"512KB","refresh":"2K","voltage":"5V"},
 	{"partNumber":"4217405","manufacturer":"NEC","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"5V"},
 	{"partNumber":"GM71V17403C","manufacturer":"Hynix","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"3.3V"},
 	{"partNumber":"GM71VS17403C","manufacturer":"Hynix","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"3.3V"},
