@@ -1,4 +1,5 @@
 const remoteMemoryChips = [
+	{"partNumber":"4217405","manufacturer":"NEC","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"5V"},
 	{"partNumber":"GM71V17403C","manufacturer":"Hynix","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"3.3V"},
 	{"partNumber":"GM71VS17403C","manufacturer":"Hynix","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"3.3V"},
 	{"partNumber":"GM71V17403CL","manufacturer":"Hynix","organization":"4Mx4","type":"EDO","density":"2MB","refresh":"2K","voltage":"3.3V"},
