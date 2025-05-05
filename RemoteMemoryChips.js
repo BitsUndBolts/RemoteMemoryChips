@@ -1,5 +1,4 @@
 const remoteMemoryChips = [
-	{"partNumber":"GM71V65163","manufacturer":"Hynix","organization":"4Mx16","type":"EDO","density":"16MB","refresh":"4K","voltage":"3.3V"},
 	{"partNumber":"GM71VS65163","manufacturer":"Hynix","organization":"4Mx16","type":"EDO","density":"16MB","refresh":"4K","voltage":"3.3V"},
 	{"partNumber":"VG2618165","manufacturer":"VIS","organization":"1Mx16","type":"EDO","density":"2MB","refresh":"1K","voltage":"5V"},
 	{"partNumber":"VG26V18165","manufacturer":"VIS","organization":"1Mx16","type":"EDO","density":"2MB","refresh":"1K","voltage":"3.3V"},
