@@ -232,6 +232,7 @@ const remoteMemoryChips = [
 	{"partNumber":"MB81V4400","manufacturer":"Fujitsu","organization":"16Mx4","type":"FPM","density":"8MB","refresh":"4K","voltage":"3.3V"},
 	{"partNumber":"MB81V4800","manufacturer":"Fujitsu","organization":"8Mx8","type":"FPM","density":"8MB","refresh":"4K","voltage":"3.3V"},
 	{"partNumber":"MB81V4805","manufacturer":"Fujitsu","organization":"8Mx8","type":"EDO","density":"8MB","refresh":"4K","voltage":"3.3V"},
+	{"partNumber":"MCM44400","manufacturer":"Motorola","organization":"1Mx4","type":"FPM","density":"512KB","refresh":"1K","voltage":"5V"},
 	{"partNumber":"MCM511000","manufacturer":"Motorola","organization":"1Mx1","type":"FPM","density":"128KB","refresh":"(not set)","voltage":"5V"},
 	{"partNumber":"MCM514100","manufacturer":"Motorola","organization":"4Mx1","type":"FPM","density":"512KB","refresh":"(not set)","voltage":"5V"},
 	{"partNumber":"MCM514256","manufacturer":"Motorola","organization":"256Kx4","type":"FPM","density":"128KB","refresh":"(not set)","voltage":"5V"},
